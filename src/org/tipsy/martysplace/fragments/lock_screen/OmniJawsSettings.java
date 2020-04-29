@@ -62,7 +62,7 @@ public class OmniJawsSettings extends SettingsPreferenceFragment implements
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.VALIDUS;
+        return MetricsEvent.TIPSY;
     }
 
     @Override
