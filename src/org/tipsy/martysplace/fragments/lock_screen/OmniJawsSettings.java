@@ -16,7 +16,7 @@
  *
 */
 
-package com.gzr.funhouse.fragments;
+package org.tipsy.martysplace.fragments.lock_screen;
 
 import android.content.Context;
 import android.content.Intent;

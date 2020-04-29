@@ -34,7 +34,7 @@
     <Preference
         android:key="omnijaws_settings"
         android:title="@string/weather_title"
-        android:fragment="com.org.tipsy.martysplace.fragments.lock_screen.OmniJawsSettings" />
+        android:fragment="org.tipsy.martysplace.fragments.lock_screen.OmniJawsSettings" />
     </Preference>
  </PreferenceCategory>
 
