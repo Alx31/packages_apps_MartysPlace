@@ -19,7 +19,7 @@
     android:key="omnijaws_settings"
     android:title="@string/weather_title">
 
-    <org.tipsy.martysplace.preference.SystemSettingSwitchPreference
+    <com.android.settings.tipsy.SystemSettingSwitchPreference
         android:key="lockscreen_weather_enabled"
         android:title="@string/lockscreen_weather_title"
         android:summary="@string/lockscreen_weather_summary"
