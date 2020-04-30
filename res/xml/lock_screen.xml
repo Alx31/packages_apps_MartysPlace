@@ -30,12 +30,13 @@
         <intent android:action="android.intent.action.MAIN"
             android:targetPackage="com.android.systemui"
             android:targetClass="com.android.systemui.tuner.LockscreenTunerActivity" />
+    </Preference>
 
     <Preference
         android:key="omnijaws_settings"
         android:title="@string/weather_title"
         android:fragment="org.tipsy.martysplace.fragments.lock_screen.OmniJawsSettings" />
-    </Preference>
+    
  </PreferenceCategory>
 
  <PreferenceCategory
